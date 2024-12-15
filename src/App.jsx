@@ -34,7 +34,7 @@ function App() {
         <header className="text-center mb-6">
           <h1 className="text-4xl font-bold text-gray-800">V Avinash</h1>
           <p className="text-lg text-gray-600">Full Stack Developer</p>
-          <p className="text-gray-500"><a href="mailto:avinashvishu26@gmail.com">avinashvishu26@gmail.com</a> | <a href="https://personal-portfolio-eight-kappa-64.vercel.app/" target='_blank'>https://personal-portfolio-eight-kappa-64.vercel.app/</a></p>
+          <p className="text-gray-500"><a href="mailto:avinashvishu26@gmail.com">avinashvishu26@gmail.com</a>| +91 9113326801 | <a href="https://personal-portfolio-eight-kappa-64.vercel.app/" target='_blank'>https://personal-portfolio-eight-kappa-64.vercel.app/</a></p>
         </header>
     <hr />
         {/* Summary Section */}
